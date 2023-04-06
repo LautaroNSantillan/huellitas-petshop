@@ -9,3 +9,10 @@
 - CSS
 - Javascript
 - Vue.js
+
+## :mage_man: Team :mage_man:
+- [Juan Bianchi (Github)](https://github.com/Juan-Bianchi)  ![DEV](https://img.shields.io/badge/DEV-blue)
+- [Sofia Ariza (Github)](https://github.com/sofiarizap)  ![DEV](https://img.shields.io/badge/DEV-blue)
+- [Joel Trinidad (Github)](https://github.com/JoelAlexanderTrinidad)  ![DEV](https://img.shields.io/badge/DEV-blue)
+- [Geraldine Bustos (Github)](https://github.com/GeraldineBustos)  ![DEV](https://img.shields.io/badge/DEV-blue)
+- [Lautaro Santillán (Github)](https://github.com/LautaroNSantillan)  ![DEV](https://img.shields.io/badge/DEV-blue)
